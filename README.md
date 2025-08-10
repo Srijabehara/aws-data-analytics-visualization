@@ -33,6 +33,4 @@ The dataset used in this project can be found here:
 https://www.kaggle.com/datasets/jeannicolasduval/2024-fortune-1000-companies
 
 
-##  Note
-This project was developed as part of my B.Tech coursework in Information Technology.
 
