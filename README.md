@@ -28,5 +28,11 @@ It demonstrates an end-to-end data pipeline using AWS S3, Glue, Athena, and Quic
 2. Read `project_report.pdf` for the complete process and architecture.
 3. View `project.pptx` for summarized presentation slides.
 
+##  Dataset
+The dataset used in this project can be found here: 
+https://www.kaggle.com/datasets/jeannicolasduval/2024-fortune-1000-companies
+
+
 ##  Note
 This project was developed as part of my B.Tech coursework in Information Technology.
+
